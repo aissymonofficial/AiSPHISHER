@@ -1,6 +1,8 @@
 <h2>AiS_PHISHER</h2>
 Empowering Ethical Phishing for Security Assessment.
 
+DEVELOPER || 𝘼𝙞𝙎 𝙎𝙔𝙈𝙊𝙉 𝙊𝙁𝙁𝙄𝘾𝙄𝘼𝙇
+
 <p align="center">
 <img src="core/logo.png" alt="AiS_PHISHER Logo"/>
 
@@ -29,7 +31,7 @@ Empowering Ethical Phishing for Security Assessment.
  
  
  ## Developer
-Developed by **AiS SYMON**
+Developed by || 𝘼𝙞𝙎 𝙎𝙔𝙈𝙊𝙉 𝙊𝙁𝙁𝙄𝘾𝙄𝘼𝙇
 
 ### Connect with me:
 - **YouTube:** [Subscribe here](https://youtube.com/@ais_symon_officialsi=J-7AUYXUVEy-2sga)
@@ -127,7 +129,7 @@ Options:
 
 ## Usage
 ```bash
-python3 dark-phish.py
+python3 AiS_PHISHER.py 
 ```
 
 ## Disclaimer
