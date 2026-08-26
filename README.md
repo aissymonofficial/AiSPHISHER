@@ -118,7 +118,7 @@ Options:
 
 ## AiS_PHISHER
 ![](core/image1.png)
-![](core/image2.png)
+![](core/imade2.png)
 
 ## Thanks to TheLinuxChoice
 
